@@ -1,0 +1,11 @@
+{
+  "agents": [
+    {
+      "name" : "mysql",
+      "host" : "mysql",
+      "metrics" : "status,newrelic",
+      "user" : "newrelic",
+      "passwd" : "newrelic"
+    }
+  ]
+}
